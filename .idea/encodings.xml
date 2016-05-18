@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="jar://$MAVEN_REPOSITORY$/org/apache/mina/mina-core/2.0.4/mina-core-2.0.4-sources.jar!/org/apache/mina/filter/codec/ProtocolCodecFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FtpClient/src/main/java/FtpClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/apache/ftpserver/command/impl/CWD.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/apache/ftpserver/command/impl/STOR.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/apache/ftpserver/impl/DefaultFtpHandler.java" charset="UTF-8" />
+  </component>
+</project>
